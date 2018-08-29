@@ -1,0 +1,6 @@
+.BackgroundPicture {
+  background-image: url("triviaGameBackgroundImage.jpg");
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
