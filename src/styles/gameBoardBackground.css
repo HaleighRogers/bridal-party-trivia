@@ -1,0 +1,8 @@
+.GameBoardBackground {
+  position: relative;
+  left: 200px;
+  top: 50px;
+  height: 10em;
+  width: 30em;
+  background-color: #222;
+}
