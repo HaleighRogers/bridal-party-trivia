@@ -1,5 +1,5 @@
 .BackgroundPicture {
-  background-image: url("triviaGameBackgroundImage.jpg");
+  background-image: linear-gradient(#e66465, #9198e5);
   position: fixed;
   height: 100%;
   width: 100%;
