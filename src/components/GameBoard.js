@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
 import '../styles/gameBoard.css';
-import GameBoardBackground from './GameBoardBackground';
+import GirlBoardBackground from './GirlBoardBackground';
+import BoyBoardBackground from './BoyBoardBackground';
 
 export default class GameBoard extends Component {
   render() {
     return(
       <div className="GameBoard">
-        <GameBoardBackground/>
+        <GirlBoardBackground/>
+        <BoyBoardBackground/>
       </div>
     )
   }
