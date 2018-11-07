@@ -5,7 +5,7 @@ import {
 import Image from "../assets/test.jpg"
 
 const Welcome = () => (
-        <Link to={`/briadalPartyShowdown`}>
+        <Link to={`/bridalPartyShowdown`}>
             <img src={Image}/>
         </Link>
 )

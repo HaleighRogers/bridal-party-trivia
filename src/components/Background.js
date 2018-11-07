@@ -5,7 +5,7 @@ export default class Background extends Component {
   render() {
     return(
       <div className="BackgroundPicture">
-          Bridal Party Showdown
+          <h1> Bridal Party Showdown </h1>
       </div>
     )
   }

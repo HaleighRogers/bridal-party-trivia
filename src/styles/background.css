@@ -3,6 +3,10 @@
   position: fixed;
   height: 100%;
   width: 100%;
+}
+
+h1 {
   text-align: center;
-  
+  margin-top: 0.25em;
+  font-size: 5em;
 }
