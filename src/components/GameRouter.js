@@ -12,7 +12,7 @@ const GameRouter = () => (
     <Router>
         <div>
             <Route exact path="/" component={Welcome}/>
-            <Route exact path="/game" component={App}/>
+            <Route exact path="/bridalPartyShowdown" component={App}/>
         </div>
     </Router>
 )

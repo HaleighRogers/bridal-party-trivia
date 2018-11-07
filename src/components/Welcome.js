@@ -2,11 +2,11 @@ import React, {Component} from 'react'
 import {
     Link
 } from 'react-router-dom'
-// import Image from "../assets/WelcomeBackground.jpeg"
+import Image from "../assets/test.jpg"
 
 const Welcome = () => (
-        <Link to={`/game`}>
-            // <img src={Image}/>
+        <Link to={`/briadalPartyShowdown`}>
+            <img src={Image}/>
         </Link>
 )
 
