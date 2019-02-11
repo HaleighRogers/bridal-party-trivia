@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import {
     Link
 } from 'react-router-dom'
-import Image from "../assets/test.jpg"
+import Image from "../assets/trivaGameBackgroundImage.jpg"
 
 const Welcome = () => (
         <Link to={`/bridalPartyShowdown`}>
