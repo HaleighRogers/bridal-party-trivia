@@ -1,14 +1,6 @@
 .BackgroundPicture {
-  /* background-image: linear-gradient(#e66465, #9198e5); */
   position: fixed;
   height: 100%;
   width: 100%;
   background-image: url("../assets/trivaGameBackgroundImage.jpg")
-}
-
-h1 {
-  text-align: center;
-  margin-top: 0.25em;
-  font-size: 5em;
-
 }
